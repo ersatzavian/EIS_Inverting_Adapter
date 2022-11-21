@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EIS_Inverting_Adapter.PrjPcb]
+   Generated File[EIS_Inverting_Adapter.TXT]
+   Generated File[EIS_Inverting_Adapter.LDP]
+   Generated File[EIS_Inverting_Adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:52:21 PM On 11/20/2022
